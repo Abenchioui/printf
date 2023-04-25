@@ -1,7 +1,7 @@
 ### These are the names of the Contributors to this github repository
 
-* **Oyebamiji Mustapha** [Abenchioui's github](https://github.com/Abenchioui)
-* **Chibuzo Akana** [OumaimaBenibrahim's github](https://github.com/OumaimaBenibrahim)
+* **Abdelilah Benchioui** [Abenchioui's github](https://github.com/Abenchioui)
+* **Oumaima Ben Ibrahim** [OumaimaBenibrahim's github](https://github.com/OumaimaBenibrahim)
 
 # To Contribute on This Project
 1. Fork the Repository.
